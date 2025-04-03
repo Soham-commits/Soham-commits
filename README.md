@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi, Soham Nigam This Side 👋
 
-<!--
-**Soham-commits/Soham-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... C,C++,SQL,HTML,CSS,JS,Python, Machine Learning
 - 📫 How to reach me: ... soham.niagm@mitwpu.edu.in
 - ⚡ Fun fact: ... Im Up Till 4AM
--->
+
