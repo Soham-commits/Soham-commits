@@ -10,9 +10,9 @@
 - 🌱 I’m currently learning Deep Diving into Deep Learning and Reinfocement Learning
 - 👯 I’m looking to collaborate on Web Applications and AI Powered Projects (ML&DL)
 - 🤔 I’m looking for help with Machine learning  
-- 💬 Ask me about ... Java,C,C++,SQL,HTML,CSS,JS,Python, Machine Learning
-- 📫 How to reach me: ... soham.niagm@mitwpu.edu.in
-- ⚡ Fun fact: ... Im Up Till 4AM
+- 💬 Ask me about: Java,C,C++,SQL,HTML,CSS,JS,Python, Machine Learning
+- 📫 How to reach me: soham.niagm@mitwpu.edu.in
+- ⚡ Fun fact: Im Up Till 4AM
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
