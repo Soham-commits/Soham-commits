@@ -7,7 +7,7 @@
   Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning Projects
-- 🌱 I’m currently learning Deep Diving into Deep Learning and Reinfocement Learning
+- 🌱 I’m currently learning Deep Diving into Deep Learning 
 - 👯 I’m looking to collaborate on Web Applications and AI Powered Projects (ML&DL)
 - 🤔 I’m looking for help with Machine learning  
 - 💬 Ask me about: Java,C,C++,SQL,HTML,CSS,JS,Python, Machine Learning
