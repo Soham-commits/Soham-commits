@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on Machine Learning and Deep Learning Projects
 - 🌱 I’m currently learning Deep Diving into Deep Learning 
 - 👯 I’m looking to collaborate on Web Applications and AI Powered Projects (ML&DL)
-- 🤔 I’m looking for help with Machine learning  
-- 💬 Ask me about: Java,C,C++,SQL,HTML,CSS,JS,Python, Machine Learning
+- 🤔 I’m looking for help with Deep learning  
+- 💬 Ask me about(lnaguages): Java,C,C++,SQL,HTML,CSS,JS,Python
 - 📫 How to reach me: soham.niagm@mitwpu.edu.in
 - ⚡ Fun fact: Im Up Till 4AM
 
